@@ -1,0 +1,16 @@
+{
+  "Reservas": [
+    {
+      "Taller": "Domótica",
+      "Profesor": "Ángel",
+      "Horas_Reservadas": "5",
+      "id": 3
+    },
+    {
+      "Taller": "Informática",
+      "Profesor": "Pedro",
+      "Horas_Reservadas": "3",
+      "id": 4
+    }
+  ]
+}
